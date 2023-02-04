@@ -1,6 +1,8 @@
 # Efficient Deep Learning-based Sentence Boundary Detection in Legal Text
  [[paper]](https://aclanthology.org/2022.nllp-1.18/) [[dataset]](https://github.com/jsavelka/sbd_adjudicatory_dec)
- 
+ <br> <br>
+ *This repo is is the official Implementation of "Efficient Deep Learning-based Sentence Boundary Detection in Legal Text" which was presented at EMNLP2022.* </br></br>
+ The code for each model can be found in [NeuralNetworks](https://github.com/NLLP-ML/SBD/tree/main/NeuralNetworks) folder.
 # Benchmark
 
 <img src="https://user-images.githubusercontent.com/57902078/216748530-4c7a4e29-50f7-4fba-839c-d0dad1aa7b24.png "  width="800" height="500" />
