@@ -6,7 +6,7 @@
 # Benchmark
 
 <img src="https://user-images.githubusercontent.com/57902078/216748530-4c7a4e29-50f7-4fba-839c-d0dad1aa7b24.png "  width="800" height="500" />
-<img src="https://user-images.githubusercontent.com/57902078/216748615-178b505b-e5c1-496d-8b11-bd4ec530b60e.png "  width="850" height="500" />
+<img src="https://user-images.githubusercontent.com/57902078/216748615-178b505b-e5c1-496d-8b11-bd4ec530b60e.png "  width="800" height="450" />
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/57902078/216748722-f6e22545-fba4-4b71-8312-7c241e30c17d.png"  width="550" height="450" />
